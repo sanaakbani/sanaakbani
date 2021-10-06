@@ -1,6 +1,6 @@
 Hi, I’m @sanaakbani!
-I'm currently a student learning Python.
-I have learned Java, C++, HTML, CSS, and Ruby.
+I'm currently a student learning C++.
+I have experience in programming in Java, JavaScript, HTML, CSS, Ruby, and Python.
 You can reach me on Instagram @sanaakbani_ or connect with me on LinkedIn! https://www.linkedin.com/in/sana-akbani/
 
 <!---
